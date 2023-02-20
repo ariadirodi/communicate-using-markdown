@@ -2,4 +2,4 @@
 ## This is a h2 header ##
 ###### This is a h6 header, which is the smallest ######
 
-[Image of Yaktocat](https://octodex.github.com/imaegs/yactocat.png)
+[Image of Yaktocat](https://octodex.github.com/images/yactocat.png)
